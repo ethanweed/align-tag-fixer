@@ -1,15 +1,13 @@
+import os
+import glob
+from itertools import chain
+import pandas as pd
 
 
+def chat2penn(cut_file_folder):
 
-def chat2penn(input_files,
-             output_file_directory):
-  import os
-  import glob
-  from itertools import chain
-  import pandas as pd
-
-  pathin = input_files
-  os.chdir(pathin)
+   os.chdir(cut_file_folder, output_directory = cut_file_folder)
+ 
   
   chat_words = []
   chat_POS = []
