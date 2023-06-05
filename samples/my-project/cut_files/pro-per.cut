@@ -1,0 +1,8 @@
+@UTF8
+themins {[scat pro:per]}
+ya {[scat pro:per][pers 2]} "you"
+yall {[scat pro:per][pers 2][num pl]} "you"
+you {[scat pro:per][pers 2]}
+you_all {[scat pro:per][pers 2]}
+you_guys {[scat pro:per][pers 2]}
+youse {[scat pro:per][pers 2]}

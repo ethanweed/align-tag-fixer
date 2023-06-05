@@ -1,0 +1,310 @@
+participant	content
+MOT	alright . 
+CHI	okay . 
+MOT	oh so what do you wanna do ? 
+CHI	I think +... 
+MOT	is it timed ? 
+INV	it's not timed so that bell just means that you can then press the spacebar to then click your <response> . 
+CHI	<okay> . 
+MOT	<oh> okay . 
+CHI	I think he doesn't look good his eyes are scary and he looks like strong and intimidating . 
+MOT	these were the three that were in the front they all look the same to me but different colors . 
+CHI	<okay> . 
+MOT	you could choose this <one why don't we choose and then we'll decide after> ? 
+CHI	<I [/] I think for the first> one we should run away just to be safe 'cause if we steal then like . 
+MOT	okay since the . 
+CHI	yeah . 
+MOT	so we're gonna run away . 
+CHI	we +// . 
+CHI	oh it was friendly so he was green . 
+MOT	okay <and> . 
+CHI	<so> maybe that and he was strong so maybe that's okay ? 
+MOT	alright . 
+CHI	he's blue and he has warts <so> . 
+MOT	don't judge him by his <warts> . 
+CHI	<well> I'm just . 
+MOT	okay <so> what do you wanna do for him ? 
+CHI	I think he is . 
+MOT	<so there's> [//] I think there were three aliens and there's four choices . 
+CHI	well I'm sure that there might be more . 
+MOT	okay <there wasn't a okay [/] okay> . 
+CHI	<that was just three> um . 
+MOT	I don't think we have enough information this is just <totally random> so make a <random decision> . 
+CHI	<yeah> <so> I think we should wave to <him> and then I think he might be nice . 
+MOT	<okay> . 
+CHI	so he was . 
+CHI	so blue with warts and he was nice and [//] but he didn't have gems . 
+MOT	correct . 
+CHI	okay . 
+MOT	that could change though . 
+CHI	blue he has to be evil . 
+MOT	okay . 
+CHI	and he doesn't have a gem <I think> [/] I think blue means you don't have a gem . 
+MOT	oh okay and then you can decide <whether you're gonna run so> . 
+CHI	<yeah but so> he doesn't have a gem and he's bad because the green guy . 
+MOT	yup . 
+CHI	who had a gem so then that means we already have the two good people . 
+MOT	okay . 
+CHI	so then for the bad people . 
+MOT	okay that's reasonable . 
+CHI	so that means we should run away . 
+MOT	correct . 
+CHI	I think . 
+CHI	<he was> [//] he's friendly but he didn't have a gem . 
+MOT	alright . 
+CHI	<so he> [//] so maybe blue ? 
+MOT	I don't know we can just pick +// . 
+MOT	yeah okay . 
+CHI	anyone that's blue so_far +// . 
+CHI	so everyone that's blue so_far has been friendly <but with no gem> . 
+MOT	okay [/] okay . 
+CHI	green ? 
+MOT	he's the same we saw in the first one no different eyes . 
+CHI	yeah . 
+MOT	so let's do what was green ? 
+CHI	oh wait everyone that's had long eyes has been nice . 
+MOT	okay <then eyes or color> ? 
+CHI	<and I think> we should steal . 
+MOT	okay go_ahead . 
+CHI	oh he's another friendly one . 
+MOT	how many have been friendly ? 
+MOT	everyone but the <green> . 
+CHI	<all of them so_far> . 
+MOT	<all of> them have been friendly ? 
+MOT	alright . 
+CHI	okay . 
+MOT	oh let's vote he's friendly go . 
+CHI	you think so ? 
+MOT	didn't we see him already ? 
+MOT	no he had different eyes right ? 
+CHI	no blue guy with [//] same guy that looked like this who had long eyes was um . 
+CHI	he was friendly and [//] but he didn't have a gem . 
+MOT	correct . 
+CHI	so <maybe> . 
+MOT	<maybe> he's friendly and has a gem . 
+CHI	okay let's ask . 
+CHI	so he was +... 
+MOT	friendly <and had a gem> . 
+CHI	<he was> blue . 
+MOT	<big eyes> . 
+CHI	<he had> big eyes and big arms . 
+MOT	okay . 
+CHI	so maybe the big arms and big eyes means you have the gem . 
+MOT	mhm . 
+CHI	but except_for it didn't apply for green . 
+MOT	maybe it's blue versus green . 
+CHI	blue guy with weak arms and big <eyes> . 
+MOT	<oh> I didn't notice that . 
+CHI	yeah so I think . 
+MOT	I think <he's friendly but doesn't have anything> . 
+CHI	<he's friendly but doesn't have a gem> . 
+MOT	right ? 
+MOT	oh maybe . 
+CHI	okay . 
+CHI	he has warts he has big eyes I think he definitely has a <gem> . 
+MOT	<let's> steal it . 
+CHI	you think we should steal ? 
+CHI	okay I agree . 
+CHI	oh . 
+MOT	he's friendly ? 
+CHI	and . 
+MOT	and he has a gem so what made him friendly ? 
+CHI	the <eyes> . 
+MOT	<eyes> okay [/] okay . 
+CHI	and the other guy who had warts was friendly . 
+MOT	okay [/] okay so warts we should look at warts a_little_bit more . 
+CHI	he [/] <he's> +// . 
+MOT	<hm> . 
+CHI	he doesn't have a gem . 
+MOT	<okay> . 
+CHI	<I> know for a fact he doesn't <have a gem> because his arms are weak . 
+MOT	<okay> [/] okay [/] okay . 
+CHI	but he has long eyes . 
+MOT	and this [/] this the line of . 
+CHI	that's [/] that's everyone . 
+MOT	okay . 
+CHI	so he's nice or maybe his eyes mean he's evil ? 
+CHI	but I think we should either <wave to> +// . 
+MOT	<I think he's nice> . 
+CHI	<you think> he's so [//] but he doesn't have a gem . 
+MOT	right wave <to him> . 
+CHI	<we should> wave to him . 
+MOT	oh he's bad I don't . 
+CHI	so I think it's the eyes . 
+MOT	okay [/] okay . 
+CHI	'cause it's not the warts . 
+CHI	or maybe it's a combination of when you have eyes <and warts> maybe ? 
+MOT	<okay> . 
+CHI	weak I think we should wave . 
+MOT	yeah 'cause he doesn't have <anything> . 
+CHI	<yeah> . 
+MOT	uh_huh . 
+MOT	okay . 
+CHI	I think we should steal . 
+MOT	'cause he has it but he's not <friendly> . 
+CHI	<yeah> . 
+MOT	okay go . 
+MOT	good . 
+CHI	weak . 
+MOT	he has it though right ? 
+CHI	no he doesn't 'cause he's weak . 
+MOT	oh weak okay . 
+CHI	so I think he's nice so we should wave . 
+MOT	okay . 
+CHI	whoa look at us go . 
+CHI	run away . 
+MOT	yes . 
+CHI	we're so good at this . 
+CHI	steal . 
+CHI	'cause <he has one but he's evil> . 
+MOT	<he has one> right he's evil okay . 
+MOT	he's friendly ? 
+MOT	so wait [/] wait <what did he> +// ? 
+CHI	<oh> because he didn't have warts I think you have to have eyes and warts to be <evil> . 
+MOT	<evil> okay . 
+CHI	okay . 
+MOT	there's some stereotyping in this game . 
+CHI	we should ask . 
+MOT	yes . 
+MOT	good . 
+CHI	babam . 
+CHI	that's the same <guy> . 
+MOT	<weren't> we just here ? 
+CHI	we should ask him again . 
+MOT	yeah if that messes with us I'm gonna be very pissed off . 
+MOT	alright [/] alright . 
+CHI	um wave . 
+MOT	'cause he doesn't have <anything but he's> not bad right ? 
+CHI	<but he's nice> . 
+MOT	'cause it has to have both <warts> . 
+CHI	<yes> . 
+MOT	alright . 
+CHI	warts . 
+MOT	warts . 
+CHI	but he's nice so we should ask . 
+MOT	right . 
+MOT	ah good . 
+CHI	seventeen out_of forty . 
+MOT	warts . 
+CHI	he's nice <but he doesn't have anything> . 
+MOT	<he doesn't have anything> . 
+CHI	<so we should> run away I meant no . 
+MOT	wave <to him> . 
+CHI	<we should> wave <yeah that's what I meant> . 
+MOT	<yeah wave to him> . 
+CHI	let's go . 
+CHI	no he's nice remember 'cause he doesn't have <eyes and warts> . 
+MOT	<the warts right> he doesn't <have anything> . 
+CHI	<right> so we should wave . 
+MOT	right alright . 
+CHI	wave . 
+MOT	wave . 
+CHI	it's the same thing but green . 
+MOT	yeah . 
+CHI	but now we know . 
+MOT	warts <and weak> . 
+CHI	<warts and> weak so [//] but he's nice 'cause he has good eyes . 
+MOT	correct . 
+CHI	so we should wave again . 
+MOT	right . 
+CHI	um . 
+CHI	he's <evil we should steal> . 
+MOT	<<he's not> [/] he's not nice> yes he has it +// ? 
+MOT	wait why does he have it ? 
+CHI	he's strong . 
+MOT	oh yeah [/] yeah [/] yeah . 
+MOT	good . 
+CHI	um <uh> . 
+MOT	<he's> weak . 
+CHI	<he's evil> . 
+MOT	<and he has warts so> he's evil . 
+CHI	so run away . 
+MOT	yes . 
+MOT	good . 
+CHI	I think we got it . 
+MOT	he's strong . 
+CHI	ask . 
+MOT	ask . 
+MOT	good . 
+CHI	<ask> . 
+MOT	<he's> strong yeah isn't <he> . 
+CHI	<'cause> he's strong he's <nice> and he has it . 
+MOT	<nice> mhm good .  
+CHI	steal . 
+MOT	steal . 
+CHI	<'cause he's evil> but he's yeah . 
+MOT	<he has it> . 
+MOT	the arms decide if he has it or not . 
+CHI	yeah and then . 
+MOT	the eyes and the warts decide if he's <nice or not> . 
+CHI	<yes> exactly . 
+MOT	so he doesn't have it and he doesn't have warts <so he's nice> ? 
+CHI	<but he's nice> . 
+MOT	so we wave to him . 
+MOT	right ? 
+CHI	yes you +// . 
+CHI	what am I saying ? 
+CHI	did you need warts to be evil ? 
+CHI	but +... 
+MOT	warts and eyes to be evil . 
+CHI	but you could +// . 
+CHI	nice still . 
+MOT	he's [//] <right> . 
+CHI	<the> only thing that essentially if you have warts yeah and eyes . 
+MOT	right . 
+CHI	uh he's nice but he has nothing . 
+MOT	right . 
+CHI	ask . 
+MOT	right <'cause he's nice and he has> . 
+CHI	<'cause he's nice and he has it> . 
+CHI	he's <evil but he has it so we should steal> . 
+MOT	<he's has it so we should steal it> . 
+CHI	look at us go ten more . 
+CHI	ask nice and has it . 
+MOT	'cause the eyes right . 
+CHI	and but +// . 
+MOT	<yes> . 
+CHI	<yeah> . 
+MOT	nice . 
+MOT	he <doesn't have it <run away> [/] <run away> [/] run away> . 
+CHI	<evil and he doesn't have it> . 
+CHI	two arms . 
+MOT	not like <you> with your bad arm . 
+CHI	<yeah> um he's <nice but he doesn't have it so we should wave> . 
+MOT	<nice but he doesn't have anything> mhm . 
+CHI	he's evil and he doesn't have anything . 
+MOT	run away . 
+CHI	so run away . 
+CHI	nice and has it ask . 
+MOT	mhm . 
+MOT	nice . 
+CHI	and has it . 
+MOT	and has it . 
+CHI	so nice again . 
+MOT	yeah[/] yeah [/] yeah 'cause it's not <two factors> yeah [/] yeah [/] yeah [/] yeah . 
+CHI	<yeah> . 
+MOT	I think the warts throw me off <sometimes like this> . 
+CHI	<mhm> you have to have warts and eyes . 
+MOT	don't have it . 
+CHI	but he's <nice> . 
+MOT	<but> he's nice . 
+CHI	so we should <say hi> . 
+MOT	<hello> . 
+CHI	evil . 
+MOT	<yes> <right> . 
+CHI	<'cause> the eyes and <warts>  but he doesn't have anything so we should run away . 
+MOT	mhm . 
+CHI	he's evil . 
+MOT	doesn't have <anything> . 
+CHI	<doesn't> have anything . 
+MOT	right . 
+CHI	so we should run away again . 
+MOT	mhm [/] mhm . 
+CHI	he's evil and he has it . 
+MOT	<steal <it>> [/] steal it . 
+CHI	<steal it> . 
+CHI	we can get our ship flying again . 
+MOT	<ugh> . 
+CHI	<yay> . 
+MOT	oh good then we don't have to play again . 
+CHI	yeah . 

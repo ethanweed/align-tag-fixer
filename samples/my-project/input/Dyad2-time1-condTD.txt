@@ -1,0 +1,326 @@
+participant	content
+CHI	ready ? 
+MOT	sure . 
+CHI	oo . 
+CHI	ready ? 
+MOT	yeah . 
+CHI	that's not a good one that's a bad alien I'm thinking . 
+MOT	why ? 
+CHI	'cause he's like +" agh +" and like getting mad at us I don't see a gem so we can just like run . 
+CHI	know what I'm saying ? 
+MOT	okay . 
+CHI	do we click on it ? 
+INV	um the answer <that you want> ? 
+CHI	<yeah> . 
+INV	yeah . 
+CHI	what ? 
+CHI	that's +... 
+MOT	now we're down two points . 
+CHI	hey we got this no we actually have zero points they can't go <down> . 
+MOT	<we're> in the negatives . 
+CHI	okay so <this is a> [//] this is a good alien um . 
+MOT	why do you think that ? 
+CHI	mm well what do you think ? 
+CHI	what do you think ? 
+MOT	he could be . 
+CHI	'cause <he's not> [/] he's not going +" agh +" at us but he's also going . 
+CHI	know what I'm saying ? 
+MOT	okay so you think downward posture <okay and> his eyes are wide open . 
+CHI	<yeah> . 
+CHI	yeah he's unhappy . 
+CHI	so <do we> [/] do we try and steal ? 
+CHI	I think it's a trick question 'cause the last one we tried to steal so I think they're trying to trick us 'cause then we were wrong . 
+MOT	okay whatever you want . 
+MOT	good one . 
+CHI	we don't talk about that okay that's another mad alien <so you see> +// . 
+MOT	<yup so we> try to steal from him <not unless he> has a gem . 
+CHI	<but> [/] but I don't see a gem and neither did the other one . 
+CHI	did the other one have a gem ? 
+MOT	hm they have gems but they're not necessarily obvious . 
+CHI	ah see how his eyes are red ? 
+CHI	I think that's a key that we gotta run and on all the other ones where they're going +" agh +" the eyes were white we gotta steal a gem . 
+CHI	know what I'm saying ? 
+MOT	I don't know why you would think that but +... 
+MOT	can you stop going with your method now ? 
+CHI	yep [/] yep alright go on . 
+MOT	okay I think you try and get the gem from him . 
+CHI	alright . 
+MOT	I don't +// . 
+MOT	okay go_ahead go with that one . 
+CHI	that's [/] that's the steal . 
+MOT	sure go_ahead . 
+CHI	I think you're gonna beat us on this one ahem okay so this one's an angry alien . 
+MOT	yep fair enough . 
+CHI	so with the last one we were supposed to steal one ? 
+MOT	the last one had downward posture but +... 
+CHI	red eyes . 
+CHI	screw_it why not ? 
+MOT	trying to steal it ? 
+CHI	yeah boom god . 
+CHI	gosh_darn_it . 
+MOT	oh okay let's +... 
+CHI	okay so this one doesn't have red eyes so it's going like this <I say we> try and steal a gem . 
+MOT	<eyes wide open> sure go_ahead . 
+MOT	dude you're not good at this . 
+CHI	I don't know why I was supposed to +... 
+CHI	okay unhappy . 
+MOT	ask him . 
+CHI	ask him for a gem ? 
+MOT	yep well everything else is done . 
+CHI	this is making no sense . 
+CHI	I wonder if their eyes red are friendly aliens . 
+CHI	what do you wanna do here ? 
+CHI	this is a stupid game no_offense . 
+MOT	steal . 
+CHI	steal ? 
+CHI	<how is that> ? 
+MOT	<okay what> determines him +// ? 
+MOT	that's the thing like I haven't figured out what makes <them friendly> . 
+CHI	<yeah what> makes them friendly ? 
+MOT	<ask him> [/] ask him nicely . 
+CHI	watch it's gonna be we should've stolen it . 
+MOT	yup . 
+CHI	<aye> . 
+INV	<good job> . 
+MOT	brutal . 
+CHI	okay so that means <they're unhappy> . 
+MOT	<quarter of the way in> . 
+MOT	steal ? 
+CHI	steal . 
+MOT	well okay this also has spots <so is> spots an indicator ? 
+CHI	<okay> . 
+CHI	for a gem ? 
+MOT	I don't know . 
+CHI	I say we run from this one and <if <we get it wrong> [/] we get it wrong> . 
+MOT	<sure why not> ? 
+CHI	yup okay so spots means they don't have gems I think . 
+CHI	so spots happy alien I say we just wave to it . 
+MOT	sure . 
+CHI	yup so spots means they have no gems <so that one's> [//] so we run from this one right ? 
+MOT	if spots are an indicator . 
+CHI	'cause it's angry . 
+MOT	okay . 
+CHI	red eyes are angry . 
+MOT	or you +... 
+CHI	yep . 
+MOT	go . 
+CHI	yes . 
+MOT	go . 
+CHI	okay red eyes <so <we steal> [/]> we steal no you can't hear you're gonna cheat . 
+MOT	<no spots> . 
+MOT	go . 
+INV	I'm sure she won't tell CHI about it . 
+MOT	nope okay <so why's it have> +// ? 
+CHI	<didn't> have red eyes . 
+MOT	yes it did . 
+CHI	did it ? 
+MOT	yep . 
+CHI	downward posture . 
+CHI	upward posture is friendly downward posture is angry ? 
+CHI	so this one <how> +/ ? 
+MOT	<no the last one> had downward posture it didn't have upward posture . 
+CHI	no it did it was like this wasn't it ? 
+MOT	go_ahead . 
+CHI	so what do we do this one steal ? 
+MOT	sure try it . 
+CHI	so downward posture +/. 
+MOT	clear downward posture red eyes that are small go . 
+MOT	big eyes . 
+CHI	downward posture . 
+MOT	yep . 
+CHI	so <that one would be> [//] that would be friendly and <we take> [//] we ask for +// . 
+CHI	no 'cause spots has gem right ? 
+MOT	correct . 
+CHI	so we wave . 
+MOT	go for it . 
+CHI	okay . 
+CHI	so small eyes must mean angry so this is big upward posture . 
+MOT	no [/] <no spots> . 
+CHI	<no spots> so we wave ? 
+CHI	so upward posture . 
+MOT	is friendly but if they didn't <have spots> they didn't have a gem . 
+CHI	<so they> . 
+MOT	so eyes ? 
+CHI	maybe +// . 
+CHI	no because okay this one's got no spots upward posture and red eyes so I say we steal . 
+CHI	but we gotta look at the color . 
+MOT	okay keep an eye on that . 
+CHI	the mouth ? 
+MOT	the tongue . 
+CHI	I say we steal yeah ? 
+MOT	go_ahead give it a whirl so they're friendly go_ahead [/] go_ahead let's see the next one . 
+CHI	same thing downward posture though . 
+MOT	that one you steal from . 
+CHI	yep sure . 
+CHI	okay so when . 
+MOT	that doesn't make any sense . 
+CHI	are green aliens friendly ? 
+CHI	no . 
+MOT	no 'cause we had blue aliens that were friendly . 
+CHI	okay spots so we +... 
+MOT	spots big eyes upward . 
+CHI	so we steal ? 
+MOT	sure I feel like we need to write all this crap down . 
+MOT	no they're friendly . 
+CHI	so <spots> . 
+MOT	<eyes> . 
+CHI	must be eyes . 
+MOT	it's gotta be eyes . 
+CHI	no . 
+MOT	'cause that's not gonna be a friendly one that's one you try and steal from . 
+CHI	but it doesn't have spots . 
+MOT	but again I think +// . 
+CHI	steal ? 
+MOT	um <it's not> [//] spots is not consistent . 
+MOT	why are they friendly ? 
+MOT	go we're halfway through man we're blowing this . 
+CHI	lose this . 
+MOT	spots so it has gems ? 
+CHI	it has a gem I think downward posture is angry I think upward posture is bad . 
+MOT	give it a whirl . 
+CHI	so we steal ? 
+CHI	what ? 
+MOT	I don't think there are any that you steal from . 
+CHI	no we've stolen some haven't we ? 
+MOT	no . 
+CHI	so it's just a trick ? 
+MOT	I don't think you steal . 
+CHI	downward posture big eyes . 
+MOT	spots this is the same friendly one . 
+CHI	should we ask for gem ? 
+MOT	can we +// ? 
+MOT	yeah go_ahead . 
+MOT	gotta wave at him . 
+MOT	okay go . 
+CHI	okay red eyes upward posture . 
+CHI	spots . 
+CHI	do [//] is this the one we ask for a gem ? 
+CHI	or do we run ? 
+CHI	'cause we have ran before . 
+CHI	I say we try and steal from this one . 
+MOT	go_ahead I'm not convinced but +... 
+CHI	why though ? 
+MOT	red eyes spots upward posture . 
+CHI	well it was green too okay . 
+MOT	<red eyes> upward posture but small big eyes . 
+CHI	<no not red> big eyes is <not red> so we ask for gem . 
+MOT	<so> . 
+MOT	okay . 
+MOT	okay . 
+CHI	upward posture would be gem too downward posture big eyes I say we wave . 
+MOT	go_ahead . 
+MOT	okay . 
+MOT	red eyes <it's got upward posture> . 
+CHI	<<it's got a gem> [/] it's got a gem> 'cause it's upward posture so I say we ask for a gem <I say we> [/] I say we steal . 
+MOT	go_ahead . 
+MOT	I'm not convinced . 
+CHI	you wanna +// ? 
+MOT	go I'm curious . 
+MOT	see ? 
+CHI	I wonder if spots is [/] is angry so this one downward posture no gems no spots we wave . 
+CHI	yep . 
+CHI	upward posture <we steal> [/] <we steal> [/] we steal . 
+MOT	they're friendly eyes . 
+CHI	but eyes in the past okay downward posture . 
+MOT	so the only difference between the last two and the last one and this one is eyes . 
+CHI	no 'cause other one was upward posture . 
+MOT	the last one wasn't . 
+CHI	yeah it was it [/] it was flexing . 
+MOT	go . 
+CHI	so what do you wanna do ? 
+CHI	steal ? 
+CHI	or do we run ? 
+CHI	I say we run . 
+CHI	steal 'cause the only difference is downward upward and if it's steal and downward means nothing upward <means> gem . 
+MOT	<go> . 
+CHI	<okay> . 
+MOT	<okay> . 
+CHI	so downward no gem red eyes . 
+MOT	this one you [/] you wave at . 
+CHI	wave ? 
+MOT	yep red eyes +// . 
+MOT	I don't know about the red eyes but you either ask for it or you wave it's wave . 
+CHI	okay then . 
+CHI	so red eyes must mean friendly then right ? 
+CHI	okay big eyes downward posture it's got no gems no spots I say that we [/] we wave ? 
+MOT	I um . 
+CHI	we wave ? 
+MOT	I'm thinking back to the other ones . 
+CHI	or do we run ? 
+MOT	I don't think we run . 
+CHI	but it's got big eyes <<I say> we> [/] I say we run . 
+MOT	<okay> . 
+CHI	if [/] if we lose the points . 
+MOT	see wave . 
+CHI	okay upward posture not friendly so we steal . 
+CHI	no gem . 
+MOT	big eyes . 
+CHI	big eyes we wave . 
+CHI	right ? 
+CHI	but it's got spots so that might mean it's angry so I say since it's angry we run and if we get it wrong we get it wrong . 
+MOT	so you think spots is angry ? 
+CHI	I think spots is angry . 
+MOT	what_about big eyes ? 
+CHI	I think big eyes has nothing to do with it . 
+MOT	okay . 
+CHI	maybe . 
+CHI	okay so spots <might> mean nothing . 
+MOT	<mhm> . 
+CHI	so it's got no gem . 
+MOT	mm I don't think that's the +... 
+CHI	it's got no gem 'cause downwards is no gem . 
+MOT	go . 
+CHI	so we wave ? 
+CHI	or we run ? 
+MOT	I'd wave or [/] or we either wave or ask those are my two . 
+CHI	it's wave . 
+MOT	points . 
+MOT	downward . 
+CHI	downward so no gem . 
+MOT	the only thing it's got different are the eyes that's the one maybe you ask for it . 
+CHI	no 'cause it's got no gem 'cause downward . 
+CHI	we wave ? 
+CHI	'cause downward means no gem remember ? 
+MOT	if that's what actually the driver . 
+CHI	it's gonna be wrong . 
+CHI	<so it's got> [//] <so red eyes> I know I messed up . 
+MOT	<you waved> I thought you were gonna +... 
+CHI	I messed up . 
+CHI	so this one's got a gem yeah <this one's got a gem> [/] this one's got a gem . 
+CHI	it's got <a gem> . 
+MOT	<this one> you ask for right ? 
+CHI	ask ? 
+CHI	why ? 
+MOT	<ask> . 
+CHI	<yes sure> . 
+CHI	yep [/] yep . 
+CHI	downward no gem . 
+MOT	nope . 
+CHI	I say <we run> . 
+MOT	<run> . 
+CHI	yup . 
+MOT	why ? 
+CHI	what ? 
+MOT	it goes against the pattern so_far . 
+CHI	this one we steal <or we> ask . 
+MOT	<what if> the pattern changes ? 
+CHI	no 'cause yeah <'cause it> [/] 'cause it was spots before . 
+MOT	yeah . 
+CHI	yeah . 
+CHI	does the pattern <change on us> ? 
+MOT	<when you pick> up the pattern it changes . 
+INV	mm_mm . 
+MOT	<doesn't matter> . 
+INV	<I'll tell you what the> pattern is at the end but not yet . 
+MOT	go . 
+CHI	what do we do steal or ask ? 
+CHI	I say we ask . 
+CHI	yeah . 
+CHI	one forty points here we come . 
+CHI	downward no gem we wave . 
+MOT	wave . 
+CHI	yay . 
+MOT	terrible this is embarrassing . 
+CHI	aye it's enough gems for our ship to fly in . 
+MOT	barely should <have double that> . 
+CHI	<whoosh> we're gone . 

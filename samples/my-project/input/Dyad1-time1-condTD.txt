@@ -1,0 +1,387 @@
+participant	content
+MOT	okay well I guess we'll figure out what to do . 
+CHI	okay you're good ? 
+MOT	mhm . 
+MOT	okay . 
+MOT	alright . 
+MOT	you ready ? 
+CHI	mhm . 
+MOT	okay . 
+MOT	okay . 
+MOT	okay you ready to make some choices ? 
+CHI	mhm . 
+MOT	okay . 
+MOT	does he look good or bad ? 
+CHI	oh . 
+MOT	what do you think ? 
+CHI	um he looks good . 
+MOT	looks good he looks um angry to me he's got his arms down and he's got his mouth on like uh kinda face . 
+MOT	I don't know doesn't it look well enough that the other aliens to see what they kinda look like . 
+CHI	so what [/] <so what else> . 
+MOT	<I think do we hit the spacebar> ? 
+MOT	okay so do we wanna wave ask for gems ? 
+CHI	ask for a gem maybe ? 
+MOT	sure we can ask for a gem . 
+MOT	oops you should have just waved at this friendly alien . 
+CHI	we have zero points . 
+CHI	now we have forty of them . 
+INV	so now you can press the spacebar . 
+CHI	that one looks bad . 
+MOT	<that one looks> [//] he looks the same as the other alien except his eyes are red . 
+CHI	mhm . 
+MOT	you see that he's a bad one so what do you want to do steal his gem ? 
+CHI	yeah . 
+MOT	or do you wanna run away ? 
+CHI	steal his gem . 
+MOT	okay . 
+MOT	nope we should have just waved at it it was a friendly one . 
+MOT	I don't know the difference between them yet . 
+CHI	okay ready ? 
+MOT	mhm . 
+CHI	I think if they're going +// . 
+CHI	<oh> that one's an angry alien . 
+MOT	<oh> . 
+MOT	yeah . 
+MOT	you think that one's angry ? 
+CHI	yup . 
+MOT	okay . 
+CHI	what should we do ? 
+MOT	do you wanna run away ? 
+CHI	does it look scary ? 
+CHI	you wanna steal a gem from it ? 
+CHI	steal a gem . 
+MOT	steal a gem okay you made the right choice . 
+CHI	yay . 
+MOT	okay . 
+CHI	okay ready ? 
+MOT	mhm . 
+CHI	mm . 
+MOT	so to that it looks like another bad alien ? 
+CHI	hm . 
+MOT	so what wanna do ? 
+CHI	what do you wanna do ? 
+MOT	did we steal last time ? 
+CHI	mhm . 
+MOT	okay so then yeah . 
+CHI	it's probably with +... 
+MOT	there you go oh . 
+CHI	okay can you_guys +... 
+CHI	you're supposed to be downstairs . 
+MOT	I asked you to be downstairs . 
+MOT	so it's a [/] a <friendly one> so we should just wave at it . 
+CHI	<friendly one> . 
+MOT	right since it told us to do every time when we were trying to ask for a gem so try waving . 
+CHI	okay . 
+MOT	<yahoo> . 
+CHI	<yay> . 
+MOT	you can't play right there . 
+CHI	oh . 
+MOT	oh he's really buff . 
+CHI	uh we should probably run away from this one . 
+MOT	run away that's probably good 'cause he looks really scary . 
+CHI	<aw> . 
+MOT	<aw> that was a friendly alien ? 
+MOT	I don't know how to +... 
+CHI	oh maybe it's the ones with spots . 
+CHI	oh that one looks <like> +... 
+MOT	<so> [/] so you think that's the one with spots I didn't know that some had spots and some didn't . 
+MOT	that one's scary so do you [/] you wanna +... 
+CHI	gem <steal a gem> . 
+MOT	<huh> steal a gem ? 
+MOT	okay [/] okay let's +// . 
+MOT	woohoo . 
+CHI	yay thirty eight points . 
+MOT	okay let's see the next one if it has spots on it or not . 
+CHI	<nope> . 
+MOT	<no spots> so just wanna wave at it ? 
+CHI	okay we'll wave at it . 
+MOT	<nope that was run away> . 
+CHI	<oh> right . 
+MOT	whoops . 
+CHI	whoops oh_well . 
+MOT	that's +// . 
+MOT	so that has spots on it so you <can> . 
+CHI	<spots> hm . 
+MOT	so you wanna steal a gem from it ? 
+CHI	or ask for a gem ? 
+CHI	we'll ask for a gem . 
+MOT	you're gonna ask for a gem ? 
+CHI	yeah aw . 
+MOT	wave there's a friendly <alien okay> . 
+CHI	<oh> okay . 
+MOT	so the spots tell me it's friendly I still haven't figured out what's the difference between them . 
+CHI	this one's a friendly alien . 
+MOT	you think so ? 
+MOT	so we should just wave at it ? 
+CHI	mhm which one ? 
+MOT	I think wave . 
+CHI	yay forty four points . 
+MOT	oh . 
+CHI	okay ready ? 
+MOT	mhm . 
+MOT	that was a friendly alien . 
+CHI	yeah so should we wave <or ask for> a gem ? 
+MOT	<yeah <I think> [/]> I think we should wave I think it's always wave . 
+CHI	no once it was ask for a gem . 
+MOT	it was ? 
+CHI	yeah and we said wave . 
+MOT	really ? 
+CHI	yeah . 
+MOT	I don't remember that . 
+CHI	yeah . 
+MOT	I think it's always wave . 
+CHI	okay . 
+MOT	um . 
+CHI	what do you think ? 
+MOT	I can't tell if that's a friendly alien or not . 
+CHI	we'll wave . 
+MOT	okay go try . 
+CHI	see ? 
+MOT	you should have asked this alien for a gem . 
+CHI	okay ready ? 
+MOT	I [/] I don't know if there actually is a really a rhyme or reason to +... 
+CHI	okay which one ? 
+MOT	so I wanna say [//] I would say steal a gem from it . 
+MOT	aw it's a <friendly alien> . 
+CHI	<I> told you . 
+MOT	what do you <think> ? 
+CHI	<do you think> this is a friendly alien or not ? 
+MOT	<you think> it's a friendly one ? 
+MOT	so you wanna wave at it ? . 
+MOT	or you wanna ask it ? . 
+CHI	ask it for a gem . 
+MOT	go ahead oh you should've just waved at it . 
+CHI	uh . 
+CHI	the aliens are being difficult . 
+CHI	there's forty of them . 
+CHI	does this look friendly to you ? 
+MOT	uh I can't tell . 
+CHI	let's just say it's friendly and let's ask it for a gem . 
+MOT	<whoa> you got it . 
+MOT	<yay> . 
+CHI	I didn't . 
+MOT	okay keep going . 
+CHI	<okay> . 
+MOT	<what do you think> ? 
+CHI	hm it looks . 
+CHI	friendly . 
+MOT	it looks friendly to me . 
+CHI	wait but its feet are out of the ground . 
+MOT	there was feet ? 
+CHI	yeah there wasn't feet on the other ones . 
+MOT	<there> wasn't feet ? 
+CHI	<um> [/] um I don't know . 
+CHI	okay let's steal gems from it ? 
+MOT	oh you should <have> +... 
+CHI	<I [/] I didn't press it though> . 
+MOT	oh you didn't press anything ? 
+CHI	I didn't press anything . 
+MOT	oh . 
+CHI	oh_well . 
+CHI	see this one doesn't have legs . 
+MOT	oh I see . 
+MOT	so you think that's a bad alien ? 
+CHI	mhm . 
+MOT	okay so you should steal a gem from it ? 
+CHI	mhm do we try run away ? 
+MOT	no you should've <asked> . 
+CHI	<okay> that doesn't matter then . 
+MOT	okay . 
+MOT	let's see if the next one has legs . 
+CHI	okay . 
+MOT	so <do you think> it's a friendly alien ? 
+CHI	<do you> +// . 
+CHI	let's just say it's friendly . 
+MOT	and ask it for a gem ? 
+CHI	mhm ask it for a gem . 
+MOT	no it's a bad alien . 
+MOT	<I don't know> [/] I don't know if I would have figured out the pattern if there <is one> . 
+CHI	<okay> . 
+MOT	they have <two different> [/] two different kinds eyes too you_know if they use like little frog eyes and they also have the like the eyes that stick up out_of the top of their head . 
+CHI	okay . 
+CHI	okay . 
+MOT	I know we said this but what did that <last one have> ? 
+CHI	I say <friendly> . 
+MOT	you think it's friendly ? 
+MOT	okay go for it you going to ask for a gem or wave at it ? 
+CHI	wave at it . 
+MOT	okay woohoo . 
+CHI	we waved at it yay . 
+MOT	okay . 
+MOT	now it has those eyes . 
+MOT	I don't think it makes a difference . 
+CHI	nope . 
+CHI	what do you say bad or good ? 
+MOT	I think it's a friendly +... 
+CHI	okay . 
+MOT	what do you think ? 
+MOT	you think it's a bad one ? 
+MOT	what do you makes it what makes you think +... 
+CHI	well see as these eyes are blue but doesn't +... 
+MOT	oh you think it's their color ? 
+CHI	it [/] it [/] it looks like remember the first time we had bad aliens that looked like that . 
+MOT	okay let's go for a bad alien . 
+CHI	okay . 
+MOT	you gonna steal from it or run away ? 
+CHI	steal from it aw <run away> . 
+MOT	<aw we should have run away> from it it was a bad alien though . 
+CHI	yeah . 
+MOT	so are blue +... 
+CHI	maybe blue was eyes and <spots> . 
+CHI	okay you ready ? 
+MOT	okay . 
+MOT	<so that's like good alien> . 
+CHI	<that one> looks a +//. 
+CHI	it comes a good alien . 
+MOT	okay so should we ask or should we wave I forget . 
+CHI	um let's ask him for one . 
+MOT	okay . 
+CHI	yay . 
+MOT	so maybe their arms up versus their arms down ? 
+CHI	yeah . 
+MOT	I think . 
+CHI	yeah maybe okay ready ? 
+CHI	see this <do we> steal it ? 
+MOT	<so it's a> +... 
+CHI	no we ask it for gems . 
+MOT	okay . 
+MOT	woohoo . 
+CHI	oh yes we finally figured out the pattern mommy . 
+MOT	okay hopefully . 
+CHI	hopefully . 
+MOT	so his arm's up so we should ask it right ? 
+CHI	yup . 
+MOT	okay . 
+MOT	<woohoo> . 
+CHI	<yes> . 
+MOT	okay . 
+CHI	we did that finally . 
+CHI	we have . 
+MOT	okay . 
+CHI	four +... 
+CHI	okay you figured out half of it <about> . 
+MOT	<okay> oh . 
+CHI	<oh> . 
+MOT	<so> his arm's down so we should wave <at it> it's a good alien . 
+CHI	<yeah wave> it's a good alien but we should wave at it . 
+MOT	woohoo . 
+CHI	we did it so +... 
+MOT	that was a bad alien . 
+CHI	so +... 
+MOT	oh I forget it [/] it's got its arms up <we should> +... 
+CHI	<then we should> steal from it . 
+MOT	you think steal let's try it . 
+CHI	<oh> . 
+MOT	<it> was a friendly alien ? 
+CHI	hm . 
+MOT	hm now I'm confused . 
+CHI	well I guess we figured out the ones with the friendly aliens sort_of okay [/] <okay> . 
+MOT	<I> thought that the bad aliens were blue but that's <not true> . 
+CHI	no that's not true okay ready ? 
+CHI	okay . 
+MOT	arms up . 
+CHI	then we should ask it . 
+MOT	ask it for a gem . 
+MOT	okay . 
+CHI	okay we have almost one hundred . 
+CHI	okay ready ? 
+MOT	mhm . 
+MOT	so wave at it . 
+CHI	aw I don't know <it was a bad alien> . 
+MOT	<it was a bad alien> . 
+CHI	it has red eyes so +// . 
+CHI	oh . 
+MOT	you think he has the red eyes ? 
+CHI	yeah if [/] if it's green and has red eyes then run away from okay here ready let's try it okay <so wanna> wave it . 
+MOT	<that's a> +... 
+CHI	wave that's a good alien . 
+MOT	<okay> . 
+CHI	<okay> okay oh it's the so we figured out the green ones right so arms up or arms down is run away or arms up okay okay ready ? 
+MOT	so is that a bad alien ? 
+CHI	let's try it and see is it a bad alien ? 
+CHI	should we run away from it ? 
+CHI	<yes> . 
+MOT	<woohoo> . 
+MOT	<okay so then it's arms down> +... 
+CHI	<okay if the bad alien if it's blue> and it's red eyes with his arms down that means it is a bad alien which run away from it . 
+MOT	okay . 
+MOT	so then we <just steal> from it no ? 
+CHI	<steal no> we should ask it for a gem . 
+MOT	we should ask it for a gem <okay go for it> . 
+CHI	<I don't know> . 
+MOT	ask it for a gem . 
+CHI	<stolen uh okay> . 
+MOT	<stolen I see I told you> 'cause it had red eyes . 
+CHI	red eyes right . 
+MOT	and his arms up so steal from it . 
+CHI	okay . 
+CHI	hm . 
+MOT	<uh that's> a good alien . 
+CHI	<this is> so you wanna ask for a gem ? 
+MOT	ask for a gem . 
+CHI	okay we figured it out yay okay red eyes arms down means run away from it okay ready ? 
+MOT	mhm . 
+CHI	okay . 
+MOT	so we wave . 
+CHI	wave . 
+CHI	oh . 
+MOT	woohoo . 
+CHI	yay we're good at this we figured out +... 
+MOT	only took us thirty two aliens to figure it out . 
+CHI	yup . 
+CHI	no . 
+MOT	okay so we steal from that one ? 
+CHI	steal from it yeah . 
+MOT	right ? 
+CHI	yeah . 
+CHI	yeah see we got it whoo . 
+CHI	thirty three we only have a_little a_couple more so +... 
+MOT	uh it's okay CHI's got it so we're gonna ask it for a gem I agree . 
+MOT	woohoo . 
+CHI	okay ready ? 
+MOT	yup . 
+CHI	<ask it for a gem> . 
+MOT	<ask it for a gem> mhm . 
+MOT	okay . 
+MOT	ask it for a gem again what do you think ? 
+CHI	mhm . 
+MOT	okay . 
+CHI	that was easy . 
+CHI	oh <you wanna steal from it> ? 
+MOT	<wanna <steal> from it>> [/] steal from it . 
+CHI	aw what ? 
+MOT	it was a friendly alien it had red eyes . 
+CHI	okay maybe we need to figure it out . 
+CHI	oh it's okay . 
+MOT	hm I thought we had it . 
+CHI	no . 
+MOT	okay but it's still from this one . 
+MOT	now I don't know the difference between them . 
+CHI	okay . 
+MOT	it's up to you you can either ask for a gem or steal one or you can +... 
+CHI	steal from it . 
+MOT	steal from it okay . 
+MOT	okay . 
+CHI	one hundred eighty . 
+CHI	if we get both of these right then we can get two hundred . 
+MOT	well is that the goal ? 
+MOT	is there a goal I forget . 
+CHI	no there's no goal but +... 
+MOT	okay so that one I would say steal from him right ? 
+CHI	yeah alright . 
+MOT	no it was a <friendly alien> . 
+CHI	<oh> it [/] it didn't have spots on it though . 
+MOT	oh the spots make a difference ? 
+CHI	maybe . 
+MOT	I don't know we're only one alien away so we can figure it out that one I would say run away from . 
+CHI	no . 
+MOT	no has no spots so you think it's a good one ? 
+CHI	just wave . 
+MOT	okay go ahead wave for it . 
+CHI	yes . 
+MOT	you got it CHI guess the spots . 
+MOT	I would say <most of the> +... 
+CHI	<was there> a pattern to it ? 
+INV	yeah did you_guys finish ? 
+MOT	<most> of the aliens were I think good . 
+CHI	<yeah> . 
