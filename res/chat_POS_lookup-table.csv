@@ -1,0 +1,17 @@
+﻿chat_POS,penn_POS
+adj,JJ
+"pro:per[pers 2 ""you""",PRP
+"pro:per[pers 2[num pl ""you""",PRP
+pro:per][pers 2,PRP
+pro:per[pers 2,PRP
+prep,IN
+adv,RB
+adv:tem,RB
+adv:wh,RB
+n,NN
+v,VB
+conj,CC
+co,UH
+co =yes=,UH
+co =no=',UH
+co =no=,UH

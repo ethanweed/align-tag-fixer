@@ -1,82 +1,3 @@
-import os
-import glob
-from itertools import chain
-import pandas as pd
-
-
-def chat2penn(cut_file_folder, output_directory, lookup_table):
-    
-    os.chdir(cut_file_folder)
- 
-    chat_words = []
-    chat_POS = []
-    
-    for file in glob.glob('*.cut'):
-        with open(file,'r') as f:
-            text = f.read()
-
-        # remove final newline, if there is one
-        if text.endswith('\n'):
-            text = text[0:-2]
-
-        # make a list
-        text = text.split('\n')[2:]
-
-        temp_words = []
-        temp_chat_POS = []
-
-        for item in text:
-            #print(item)
-            temp_words.append(item.split(' {[')[0])
-            temp_chat_POS.append(item.split(' {[')[1])
-
-        chat_words.append([x.replace('_', '') for x in temp_words])
-
-        temp_chat_POS = [x.replace('scat ', '') for x in temp_chat_POS]
-        temp_chat_POS = [x.replace(']}', '') for x in temp_chat_POS]
-        temp_chat_POS = [x.replace(']', '') for x in temp_chat_POS]
-
-        chat_POS.append(temp_chat_POS)
-        
-    chat_words = list(chain.from_iterable(chat_words))
-    chat_POS = list(chain.from_iterable(chat_POS))
-
-    #lut = pd.read_csv(lookup_table)
-
-    lut = pd.read_csv(lookup_table).set_index('chat_POS').to_dict()
-    lut = lut['penn_POS']
-
-    chat_info = pd.DataFrame(zip(chat_words, chat_POS), columns=['chat_words', 'chat_POS'])
-
-    chat_info['penn_POS'] = chat_info['chat_POS'].map(lut)
-
-    chat_info.to_csv(output_directory + '_custom_chat_tags.csv', index=False)
-
-
-
-
-def fixtags(model, glossary):
-    glossary = pd.read_csv(glossary)
-    tt = model['tagged_token']
-    tl = model['tagged_lemma']
-    tag_cols = [tt, tl]
-    for column in tag_cols:
-        for n, lex in enumerate(glossary['chat_words']):
-            for i, utt in enumerate(column):
-                for s, val in enumerate(utt): 
-                    if val[0] == lex:
-                        utt[s] = (val[0], glossary['penn_POS'][n])
-
-
-    model['tagged_token'] = tt
-    model['tagged_lemma'] = tl
-    return(model)
-
-
-
-
-###############################
-
 import os,re,math,csv,string,random,logging,glob,itertools,operator,sys
 from os import listdir, pathsep
 from os.path import isfile, join
@@ -502,7 +423,9 @@ def prepare_transcripts(input_files,
                         input_as_directory=True,
                         save_concatenated_dataframe=True,
                         custom_dictionary=False,
-                        path_to_custom_dictionary=None):
+                        path_to_custom_dictionary=None,
+                        custom_dictionary=True,
+                        path):
 
     """
     Prepare transcripts for similarity analysis.
@@ -680,26 +603,3 @@ def prepare_transcripts(input_files,
 
     # return the dataframe
     return prepped_df
-
-
-
-def find_custom_words(input_folder, path_to_custom_dictionary):
-    glossary = pd.read_csv(path_to_custom_dictionary)
-
-
-    words = []
-    filenames = []
-
-    for file in glob.glob(input_folder + '*.txt'):
-        with open(file,'r') as f:
-            text = f.read()
-
-        for word in list(glossary['chat_words']):
-            for item in text.split(' '):
-                if item == word:
-                    words.append(item)
-                    filenames.append(file.split('/')[-1])
-
-    custom_words = pd.DataFrame({'file': filenames,
-                                 'word': words})
-    return(custom_words)
